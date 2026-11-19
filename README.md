@@ -25,3 +25,9 @@ Error: tidak bisa membagi dengan nol.
 - `kalkulator.py` — seluruh program (fungsi per operasi + loop CLI).
 - `PULL_REQUEST.md` — draf pull request untuk perubahan di branch
   `perbaikan-readme`.
+
+## Catatan belajar
+
+Perubahan ini dibuat di branch `perbaikan-readme` dan diusulkan lewat
+pull request — meniru alur kerja tim profesional: jangan langsung
+mengubah `main`, usulkan dulu lewat branch + PR.
